@@ -3,6 +3,8 @@
 
 This repository a server of snail race results.
 
+It's used for the [snail race kata](https://github.com/mathieucans/snail-race-kata) used to learn Adapter Contract Testing.
+
 Each time a race ends, the results is available on the results url
 ```shell
 curl localhost:8000/results
